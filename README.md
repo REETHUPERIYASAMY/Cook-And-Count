@@ -32,7 +32,7 @@ This repository contains:
 
 The prototype was created using Figma to visually represent the app’s design and flow.
 
-📎 [View Interactive Prototype](https://www.figma.com/proto/your-prototype-link)
+📎 [View Interactive Prototype](https://www.figma.com/design/qQoNmoZLCkl8Rukpca6Nqz/CookCraft--Community-?node-id=0-1&p=f&t=JMZ7tH2clpbOnFID-0)
 
 🖼️ Screenshots of key screens can be found in the `/ui-designs/` folder:
 - Home Screen
