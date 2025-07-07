@@ -1,0 +1,11 @@
+https://www.figma.com/design/qQoNmoZLCkl8Rukpca6Nqz/CookCraft--Community-?node-id=0-1&p=f&t=JMZ7tH2clpbOnFID-0
+
+This is the Figma prototype for Cook & Count. It showcases:
+- Splash screen
+- Create account/login
+- Whistle timer setup and counter
+- Notification and sound settings
+- Recipe/chef mode
+- Alerts for cooking completion
+
+All screens are designed to guide first-time pressure cooker users.
